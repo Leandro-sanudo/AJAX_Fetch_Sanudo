@@ -1,0 +1,7 @@
+[
+    {"id":1 , "name":"Sensei, Kongetsu Dou Desu Ka" , "chapter":4 , "image": "Imagenes/Sensei.jpg"},
+    {"id":2 , "name":"Hinata no Blue" , "chapter":12 , "image": "Imagenes/Hinata.jpg"},
+    {"id":3 , "name":"The Young Master and The Maid" , "chapter":42 , "image": "Imagenes/YoungMaster.jpg"},
+    {"id":4 , "name":"My Crush Forgot Her Glasses" , "chapter":91 , "image": "Imagenes/Glasses.jpg"},
+    {"id":5 , "name":"La canción gris" , "chapter":11 , "image": "Imagenes/Gris.jpg"}
+]
